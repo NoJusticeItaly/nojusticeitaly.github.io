@@ -70,4 +70,7 @@ footer {
   .head p {
     font-size: 1em;
   }
+  .head h5{
+    padding: 0 3%;
+  }
 }
