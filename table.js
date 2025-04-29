@@ -1,4 +1,4 @@
-fetch("archivio.JSON")
+fetch("archivio.json")
 .then(res => res.json())
 .then(data => generateTable(data))
 
